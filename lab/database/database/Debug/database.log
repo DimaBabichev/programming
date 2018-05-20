@@ -1,0 +1,23 @@
+﻿  CppCLR_WinformsProjekt.cpp
+c:\users\дима\source\repos\database\database\form1.h(365): warning C4947: System::Data::OleDb::OleDbParameterCollection::Add: помечен как устаревший
+  c:\users\дима\source\repos\database\database\form1.h(365): note: Сообщение: "Add(String parameterName, Object value) has been deprecated.  Use AddWithValue(String parameterName, Object value).  http://go.microsoft.com/fwlink/?linkid=14202"
+c:\users\дима\source\repos\database\database\form1.h(366): warning C4947: System::Data::OleDb::OleDbParameterCollection::Add: помечен как устаревший
+  c:\users\дима\source\repos\database\database\form1.h(366): note: Сообщение: "Add(String parameterName, Object value) has been deprecated.  Use AddWithValue(String parameterName, Object value).  http://go.microsoft.com/fwlink/?linkid=14202"
+c:\users\дима\source\repos\database\database\form1.h(370): warning C4947: System::Data::OleDb::OleDbParameterCollection::Add: помечен как устаревший
+  c:\users\дима\source\repos\database\database\form1.h(370): note: Сообщение: "Add(String parameterName, Object value) has been deprecated.  Use AddWithValue(String parameterName, Object value).  http://go.microsoft.com/fwlink/?linkid=14202"
+c:\users\дима\source\repos\database\database\form1.h(396): warning C4947: System::Data::OleDb::OleDbParameterCollection::Add: помечен как устаревший
+  c:\users\дима\source\repos\database\database\form1.h(396): note: Сообщение: "Add(String parameterName, Object value) has been deprecated.  Use AddWithValue(String parameterName, Object value).  http://go.microsoft.com/fwlink/?linkid=14202"
+c:\users\дима\source\repos\database\database\form1.h(397): warning C4947: System::Data::OleDb::OleDbParameterCollection::Add: помечен как устаревший
+  c:\users\дима\source\repos\database\database\form1.h(397): note: Сообщение: "Add(String parameterName, Object value) has been deprecated.  Use AddWithValue(String parameterName, Object value).  http://go.microsoft.com/fwlink/?linkid=14202"
+c:\users\дима\source\repos\database\database\form1.h(398): warning C4947: System::Data::OleDb::OleDbParameterCollection::Add: помечен как устаревший
+  c:\users\дима\source\repos\database\database\form1.h(398): note: Сообщение: "Add(String parameterName, Object value) has been deprecated.  Use AddWithValue(String parameterName, Object value).  http://go.microsoft.com/fwlink/?linkid=14202"
+c:\users\дима\source\repos\database\database\form1.h(402): warning C4947: System::Data::OleDb::OleDbParameterCollection::Add: помечен как устаревший
+  c:\users\дима\source\repos\database\database\form1.h(402): note: Сообщение: "Add(String parameterName, Object value) has been deprecated.  Use AddWithValue(String parameterName, Object value).  http://go.microsoft.com/fwlink/?linkid=14202"
+c:\users\дима\source\repos\database\database\form1.h(403): warning C4947: System::Data::OleDb::OleDbParameterCollection::Add: помечен как устаревший
+  c:\users\дима\source\repos\database\database\form1.h(403): note: Сообщение: "Add(String parameterName, Object value) has been deprecated.  Use AddWithValue(String parameterName, Object value).  http://go.microsoft.com/fwlink/?linkid=14202"
+c:\users\дима\source\repos\database\database\form1.h(429): warning C4947: System::Data::OleDb::OleDbParameterCollection::Add: помечен как устаревший
+  c:\users\дима\source\repos\database\database\form1.h(429): note: Сообщение: "Add(String parameterName, Object value) has been deprecated.  Use AddWithValue(String parameterName, Object value).  http://go.microsoft.com/fwlink/?linkid=14202"
+c:\users\дима\source\repos\database\database\form1.h(433): warning C4947: System::Data::OleDb::OleDbParameterCollection::Add: помечен как устаревший
+  c:\users\дима\source\repos\database\database\form1.h(433): note: Сообщение: "Add(String parameterName, Object value) has been deprecated.  Use AddWithValue(String parameterName, Object value).  http://go.microsoft.com/fwlink/?linkid=14202"
+  .NETFramework,Version=v4.5.2.AssemblyAttributes.cpp
+  database.vcxproj -> C:\Users\Дима\source\repos\database\Debug\database.exe
